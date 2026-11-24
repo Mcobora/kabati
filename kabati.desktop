@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Kabati
+Comment=Your applications. One organised shelf.
+Exec=kabati
+Icon=kabati
+Terminal=false
+Categories=System;Utility;
