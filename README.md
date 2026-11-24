@@ -16,7 +16,7 @@ Kabati is a lightweight, customisable Linux desktop application launcher for the
 
 ## Installation
 
-    git clone https://github.com/johnmcobora-design/kabati.git
+    git clone https://github.com/<new-username>/kabati.git
     cd kabati && chmod +x install.sh && ./install.sh
 
 ## Roadmap
